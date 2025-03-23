@@ -19,15 +19,37 @@ var addon_dictionary = {
 			"time": ["void", "order"]
 		} 
 	},
-  "gt": {
-    "name": "Gregtech",
-    "aspects": ["electricity", "magnetism", "cheatiness", "radioactivity", "stupidity"],
-    "combinations": {
-      "electricity": ["energy", "mechanism"],
-      "magnetism": ["metal", "travel"],
-      "cheatiness": ["mine", "greed"],
-      "radioactivity": ["light", "energy"],
-      "stupidity": ["entropy", "mind"]
-    }
-  }
+  	"gt": {
+    	"name": "Gregtech",
+    	"aspects": ["electricity", "magnetism", "cheatiness", "radioactivity", "stupidity"],
+    	"combinations": {
+      		"electricity": ["energy", "mechanism"],
+      		"magnetism": ["metal", "travel"],
+      		"cheatiness": ["mine", "greed"],
+      		"radioactivity": ["light", "energy"],
+      		"stupidity": ["entropy", "mind"]
+    	}
+  	},
+	"pa": {
+		"name": "Planar Artifice",
+		"aspects": ["space"],
+		"combinations": {
+			"space": ["void", "entropy"]
+		}
+	},
+	"ta": {
+		"name": "Thaumic Additions",
+		"aspects": ["wave", "sound", "destruction", "god", "dragon", "hell", "wind", "sight", "control"],
+		"combinations": {
+			"wave": ["motion", "water"],
+			"sound": ["wave", "air"],
+			"destruction": ["entropy", "tool"],
+			"god": ["man", "desire"],
+			"dragon": ["god", "life"],
+			"hell": ["fire", "death"],
+			"wind": ["air", "flight"],
+			"sight": ["senses", "crystal"],
+			"control": ["mind", "mechanism"]
+		}
+	}
 };

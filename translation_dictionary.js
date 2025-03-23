@@ -64,5 +64,15 @@ var translate = {
 	"magnetism": "magneto",
 	"cheatiness": "nebrisum",
 	"radioactivity": "radio",
-	"stupidity": "stronito"
+	"stupidity": "stronito",
+	"space": "spatio",
+	"wave": "fluctus",
+	"sound": "sonus",
+	"destruction": "exitium",
+	"god": "caeles",
+	"dragon": "draco",
+	"hell": "infernum",
+	"wind": "ventus",
+	"sight": "visum",
+	"control": "imperium"
 };
