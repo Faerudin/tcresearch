@@ -52,6 +52,7 @@ var translate = {
 	"mechanism": "machina",
 	"trap": "vinculum",
 	"exchange": "permutatio",
+	"apocalypse": "terminus",
 	"wrath": "ira",
 	"nether": "infernus",
 	"gluttony": "gula",

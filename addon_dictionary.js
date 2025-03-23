@@ -30,6 +30,13 @@ var addon_dictionary = {
       		"stupidity": ["entropy", "mind"]
     	}
   	},
+	"av": {
+		"name": "Avaritia",
+		"aspects": ["apocalypse"],
+		"combinations": {
+			"apocalypse": ["eldritch", "greed"]
+		}
+	},
 	"pa": {
 		"name": "Planar Artifice",
 		"aspects": ["space"],
