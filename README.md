@@ -1,5 +1,5 @@
 # TC4 Research Port Helper
-[Thaumcraft Research Helper](http://faerudin.github.io/tcresearch/)
+[Thaumcraft Research Helper](http://ythri.github.io/tcresearch/)
 
 ## Using 
 Choose  **`From`** and **`To`** Aspects from your research note and minimum number of steps between those aspects. Then click  **`Find Connection`** and the script will search for the shortest path 
